@@ -1,0 +1,4 @@
+gunicorn
+webbrowser
+os
+sys 
